@@ -1,0 +1,12 @@
+.demo_qrcode {
+  display: none;
+}
+.demo_background:hover .demo_qrcode {
+  display: block;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+.demo_qrcode p {
+  color: rgba(255, 255, 255, 0.5);
+}
