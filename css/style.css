@@ -654,8 +654,7 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 1;
 }
 
-#fh5co-services-section,
-#fh5co-contact-us-section {
+#fh5co-services-section{
   position: relative;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1fb57b+0,258dc8+100 */
   background: #1fb57b;
@@ -672,26 +671,21 @@ h1, h2, h3, h4, h5, h6, figure {
   /* IE6-8 fallback on horizontal gradient */
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services-section .services-inner,
-  #fh5co-contact-us-section .services-inner {
+  #fh5co-services-section .services-inner  {
     margin-bottom: 60px;
   }
 }
-#fh5co-services-section .services-inner h3,
-#fh5co-contact-us-section .services-inner h3{
+#fh5co-services-section .services-inner h3{
   color: white;
 }
-#fh5co-services-section .services-inner p,
-#fh5co-contact-us-section .services-inner p {
+#fh5co-services-section .services-inner p{
   color: rgba(255, 255, 255, 0.7);
 }
-#fh5co-services-section .services-inner span,
-#fh5co-contact-us-section .services-inner span{
+#fh5co-services-section .services-inner span{
   display: block;
   margin-bottom: 45px;
 }
-#fh5co-services-section .services-inner span i,
-#fh5co-contact-us-section .services-inner span i{
+#fh5co-services-section .services-inner span i{
   font-size: 40px;
   color: white;
   border: 2px solid rgba(255, 255, 255, 0.7);
@@ -701,12 +695,10 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-#fh5co-services-section .fh5co-heading h2,
-#fh5co-contact-us-section .fh5co-heading h2{
+#fh5co-services-section .fh5co-heading h2{
   color: #fff;
 }
-#fh5co-services-section .fh5co-heading p,
-#fh5co-contact-us-section .fh5co-heading p{
+#fh5co-services-section .fh5co-heading p{
   color: rgba(255, 255, 255, 0.7);
 }
 
